@@ -67,7 +67,7 @@ html::-webkit-scrollbar-track{
     color: var(--main-color);
     border-bottom: 3px solid var(--main-color);
 }
-.menu-icon{
+#menu-icon{
     font-size: 3.6rem;
     color: var(--main-color);
     display: none;
